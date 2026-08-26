@@ -2,4 +2,10 @@
 
 Adding one more line 
 
-Added from bug branch
+Changes from feature branch
+
+Push Push normal Push
+
+Working with merge 
+Added from bug branch   
+ 
